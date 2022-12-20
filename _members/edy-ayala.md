@@ -1,17 +1,14 @@
 ---
 name: Edy Ayala
-image: images/member.jpg
+image: images/Edy_Ayala.jpg
 description: Principal Investigator
-role: programmer
+role: pi
 aliases:
-  - A. Chovie
-  - A Chovie
+  - E. Ayala
+  - E Ayala
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: https://fisica.epn.edu.ec/index.php/departamento/personal-academico?id=39
+  email: edy.ayala@epn.edu.ec
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Full Professor at EPN.

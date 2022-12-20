@@ -17,7 +17,7 @@ _Esta es una pequeña lista de instructiones y tutoriales para comenzar la inves
 
 ## Featured
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="resources" filters="group: featured" %}
 
 {% include section.html %}
 
