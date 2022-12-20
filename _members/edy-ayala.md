@@ -1,7 +1,7 @@
 ---
-name: Anne Chovie
+name: Edy Ayala
 image: images/member.jpg
-description: Bark Ops Engineer
+description: Principal Investigator
 role: programmer
 aliases:
   - A. Chovie

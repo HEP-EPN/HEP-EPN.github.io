@@ -2,9 +2,10 @@
 
 # site properties and page defaults
 title: HEP@EPN
+subtitle: High Energy Physics group at Escuela Politécnica Nacional - Quito, Ecuador
 description: High Energy Physics group at Escuela Politécnica Nacional - Quito, Ecuador
-logo: images/logo.svg
-header: images/background.jpg
+logo: images/HEP-EPN.png
+header: none
 footer: images/background.jpg
 baseurl: ""
 
@@ -12,7 +13,7 @@ baseurl: ""
 links:
   email: jane.smith@your-lab.com
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  github: HEP-EPN
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
