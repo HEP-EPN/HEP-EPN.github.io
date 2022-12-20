@@ -21,7 +21,7 @@ _Esta es una pequeña lista de instructiones y tutoriales para comenzar la inves
 
 {% include search-info.html %}
 
-{% include list.html data="postsResources" component="post-excerpt" %}
+{% include list.html data="resources" component="post-excerpt" %}
 
 {% include section.html %}
 
