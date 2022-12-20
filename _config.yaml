@@ -6,7 +6,7 @@ description: High Energy Physics group at Escuela Politécnica Nacional - Quito,
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: ""
 
 # site social media and other links
 links:
