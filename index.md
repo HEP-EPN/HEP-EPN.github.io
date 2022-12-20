@@ -2,27 +2,13 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Website in progress
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to the High Energy Physics group at the Escuela Politécnica Nacional (EPN) in Quito, Ecuador. Our young group is part of the [CMS Collaboration](https://cms.cern.ch/) at [CERN](https://www.cern.ch/). We are working on Machine Learning applications on collider data at high energies.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+Bienvenidos al grupo de Física de Altas Energías de la Escuela Politécnica Nacional (EPN) en Quito, Ecuador. Este grupo joven es parte de la [Colaboración CMS](https://cms.cern.ch/) en [CERN](https://www.cern.ch/). Trabajamos en aplicaciones de Machine Learning en datos de colisionadores a altas energías.
+
+
 {:.center}
 
 {% include section.html full=true %}
