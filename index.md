@@ -13,7 +13,7 @@ _Bienvenidos al grupo de Física de Altas Energías de la Escuela Politécnica N
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/banner.png" %}
 
 {% include section.html %}
 
