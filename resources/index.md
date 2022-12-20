@@ -17,10 +17,14 @@ _Esta es una pequeña lista de instructiones y tutoriales para comenzar la inves
 
 ## Featured
 
-{% include list.html component="card" data="resources" filters="group: featured" %}
+{% include section.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="postsResources" component="post-excerpt" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="resources" filters="group: more" style="small" %}
