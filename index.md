@@ -6,7 +6,7 @@ title: Home
 
 Welcome to the High Energy Physics group at the Escuela Politécnica Nacional (EPN) in Quito, Ecuador. Our young group is part of the [CMS Collaboration](https://cms.cern.ch/) at [CERN](https://www.cern.ch/). We are working on Machine Learning applications on collider data at high energies.
 
-Bienvenidos al grupo de Física de Altas Energías de la Escuela Politécnica Nacional (EPN) en Quito, Ecuador. Este grupo joven es parte de la [Colaboración CMS](https://cms.cern.ch/) en [CERN](https://www.cern.ch/). Trabajamos en aplicaciones de Machine Learning en datos de colisionadores a altas energías.
+_Bienvenidos al grupo de Física de Altas Energías de la Escuela Politécnica Nacional (EPN) en Quito, Ecuador. Este grupo joven es parte de la [Colaboración CMS](https://cms.cern.ch/) en [CERN](https://www.cern.ch/). Trabajamos en aplicaciones de Machine Learning en datos de colisionadores a altas energías._
 
 
 {:.center}

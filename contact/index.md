@@ -7,8 +7,11 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our group is part of the [Physics Department](https://fisica.epn.edu.ec/), at the [Escuela Politécnica Nacional](https://www.epn.edu.ec/).
+We are located in the first floor of Building No. 6 of the campus José Rúben Orellana.
+
+_Nuestro grupo es parte del [Departmento de Física](https://fisica.epn.edu.ec/) de la [Escuela Politécnica Nacional](https://www.epn.edu.ec/)._
+_Estamos ubicados en el primer piso del Edificio No. 6 del campus José Rúben Orellana._
 
 {%
   include link.html
@@ -23,9 +26,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(09) 999-9999"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+593-9-999-9999"
   style="button"
 %}
 {%
@@ -34,7 +37,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://goo.gl/maps/X54FB4XMhLAMM3Xy6"
   style="button"
 %}
 {:.center}
@@ -43,9 +46,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Ladrón de Guevara E11-253
+PO BOX 17-01-2759
+Quito - Ecuador
 {:.center}
 
 {% capture col1 %}
