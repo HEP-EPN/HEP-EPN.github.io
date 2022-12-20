@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: Outreach
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Our outreach projects
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>Outreach projects
 
 {% include section.html %}
 

@@ -72,4 +72,8 @@ Our work is made possible by funding from several organizations.
   link1="https://www.educacionsuperior.gob.ec/"
   tooltip1="Secretaria Nacional de Ciencia y Tecnología - Senescyt"
 
+  image2="images/Escudo_de_la_Escuela_Politécnica_Nacional.png"
+  link2="https://www.epn.edu.ec/"
+  tooltip2="Escuela Politécnica Nacional"
+
 %}
