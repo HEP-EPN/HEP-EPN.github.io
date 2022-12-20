@@ -32,22 +32,28 @@ nav:
 
 {% include section.html background="images/banner.png" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work closely with these collaborators:
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: collaborator"
+%}
 
 {% include section.html %}
 
-## Join
+## Join us
 
-#### Post Dogtoral Researcher
+We are always glad to discuss with new students for projects related to High Energy Physics and CERN in general. If you want to discuss it, book a meeting in the link below.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+_Siempre estamos gustosos de conversar con nuevos estudiantes sobre proyectos relacionados a Física de Altas Energías y CERN en general. Si quieres discutir algun proyecto, agenda una reunión con nosotros en el siguiente link._
 
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/alefisico/30min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
@@ -61,27 +67,8 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/senescyt.jpg"
+  link1="https://www.educacionsuperior.gob.ec/"
+  tooltip1="Secretaria Nacional de Ciencia y Tecnología - Senescyt"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}

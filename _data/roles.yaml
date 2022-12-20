@@ -22,6 +22,11 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
+collaborator:
+  icon: fas fa-regular fa-user-group
+  text: Collaborator
+
+
 mascot:
   icon: fas fa-dog
   text: Mascot
