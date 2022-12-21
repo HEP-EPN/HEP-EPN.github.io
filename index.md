@@ -20,13 +20,14 @@ _Bienvenidos al grupo de Física de Altas Energías de la Escuela Politécnica N
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is interested in Large Hadron Collider (LHC) data analysis. We are part of the CMS Collaboration and we have particular expertise in the study of hadronic decays of fundamental particles, known as jets, and its internal structure. We are also interested in exotic searches of new physics.
+
+_Nuestro grupo esta interesado en analisis de datos del Gran Colisionador de Hadrones (LHC). Formamos parte de la Colaboración CMS, y particularmente tenemos experiencia en el decaimiento hadrónico de partículas elementales, llamados jets, y en su estructura interna. Estamos también interesados en búsquedas de nuevas partículas exóticas._
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See our current projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -35,20 +36,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/dijet_eventdisplay.png"
   link="research"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If you are interested in working with us, we gather some instructions and tutorials in the following link.
+
+_Si estas interesado en trabajar con nosotros, en el siguiente link puedes encontrar algunas instrucciones y tutoriales._
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="resources"
+  text="Browse our resources"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -57,7 +59,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/coding.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -65,7 +67,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Take a look at our team, past and present.
+
+_Mira quien es y fue parte de nuestro grupo._
 
 {%
   include link.html
@@ -84,6 +88,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
