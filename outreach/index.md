@@ -7,6 +7,8 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>Outreach projects
 
+**Work in progress**
+
 {% include section.html %}
 
 {% include search-info.html %}

@@ -10,6 +10,8 @@ nav:
 
 {% include section.html %}
 
+The current members of the group are:
+
 {%
   include list.html
   data="members"
@@ -42,6 +44,14 @@ We work closely with these collaborators:
 %}
 
 {% include section.html %}
+
+
+{% include section.html %}
+
+Past members of our team are:
+
+ * Cristina Mantilla Suarez - Currently Postdoc at Fermilab.
+ * Daniel Guerrero - Currently  Postdoc at Fermilab.
 
 ## Join us
 
