@@ -72,3 +72,5 @@ plugins:
 
 # jekyll theme
 theme: null
+
+exclude: jupyter
