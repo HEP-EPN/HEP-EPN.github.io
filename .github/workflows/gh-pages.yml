@@ -40,7 +40,7 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Install dependencies
-        run: python3 -m pip install -r jupyter-book
+        run: python3 -m pip install jupyter-book
       # Build the book
       - name: Build the book
         run: |
