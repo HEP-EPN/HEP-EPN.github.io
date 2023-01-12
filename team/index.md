@@ -51,6 +51,8 @@ We work closely with these collaborators:
 Past members of our team are:
 
  * Miguel Garcia - Currently in the industry.
+ * Erick Rundo
+ * Stephany Vargas
  * Cristina Mantilla Suarez - Currently Postdoc at Fermilab.
  * Daniel Guerrero - Currently  Postdoc at Fermilab.
 
