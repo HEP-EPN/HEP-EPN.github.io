@@ -17,18 +17,18 @@ _Estamos ubicados en el primer piso del Edificio No. 6 del campus José Rúben O
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="departamento.fisica@epn.edu.ec"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="departamento.fisica@epn.edu.ec"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(09) 999-9999"
+  text="593 2 2976 300 Ext. 1701 "
   tooltip=""
-  link="+593-9-999-9999"
+  link="+593-2-297-6300"
   style="button"
 %}
 {%
@@ -54,15 +54,15 @@ Quito - Ecuador
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/Escudo_de_la_Escuela_Politécnica_Nacional.png"
+  caption="Escuela Politécnica Nacional"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/nuevo_logo_fisica.png"
+  caption="Physics Department"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
