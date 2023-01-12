@@ -12,11 +12,11 @@ baseurl: ""
 # site social media and other links
 links:
   email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
+  # google-scholar: ETJoidYAAAAJ
   github: HEP-EPN
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  # twitter: YourLabHandle
+  # instagram: YourLabHandle
+  # youtube: YourLabChannel
 
 ### advanced settings
 
@@ -72,5 +72,3 @@ plugins:
 
 # jekyll theme
 theme: null
-
-exclude: jupyter
