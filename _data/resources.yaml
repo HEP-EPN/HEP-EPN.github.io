@@ -1,32 +1,33 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Documentation for newcomers to our group
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/CMSEcuador-logo.png
+  link: https://hep-epn.github.io/ECHEP-documentation/basics.html
+  description: A brief summary of the tools usualy used in our group and CMS/LHC analyses.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - documentation
+    - tutorials
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Our github repository
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  link: https://github.com/HEP-EPN
+  description: The github repository of our work.
+  repo: HEP-EPN
   tags:
-    - resource
+    - github
+    - code
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Our mattemost channel
+  group: featured
+  image: https://1435268659-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LorODNCmgMboJfZ7MPT-3109903374%2Fuploads%2Fgit-blob-7370a8712d577917cb9308cedddf615ec487ee4f%2FMattermost_logo_vertical_black.png?alt=media
+  link: https://mattermost.web.cern.ch/cms-ecuador/channels/town-square
+  description: The place where we discuss and chat about our work.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - chat
 
 - title: Cool Web App
   group: more

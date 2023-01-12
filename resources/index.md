@@ -15,16 +15,16 @@ _Esta es una pequeña lista de instructiones y tutoriales para comenzar la inves
 
 {% include section.html %}
 
-## Featured
+## Our resources
 
 {% include section.html %}
 
 {% include search-info.html %}
 
-{% include list.html data="resources" component="post-excerpt" %}
+{% include list.html component="card" data="resources" filters="group:featured" %}
 
 {% include section.html %}
 
-## More
+## Suggested external resources 
 
 {% include list.html component="card" data="resources" filters="group: more" style="small" %}
