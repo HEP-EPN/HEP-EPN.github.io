@@ -9,7 +9,7 @@ nav:
 
 This is a small list of instructions and tutorials to getting started in High Energy Physics research, focused on CMS data/software and Machine Learning. By no means it is a complete list, and it is constantly evolving.
 
-_Esta es una pequeña lista de instructiones y tutoriales para comenzar la investigación en Física de Altas Energías, enfocado en datos y software de CMS, y en Machine Learning. Estos links no es en lo absoluto los unicos recursos disponibles, y esta lista esta cambiando constantemente. Todas las instrucciones estan en ingles._
+_Esta es una pequeña lista de instrucciones y tutoriales para comenzar la investigación en Física de Altas Energías, enfocado en datos y software de CMS, y en Machine Learning. Estos links no es en lo absoluto los únicos recursos disponibles, y esta lista esta cambiando constantemente. Todas las instrucciones están en ingles._
 
 {% include search-info.html %}
 
@@ -25,6 +25,6 @@ _Esta es una pequeña lista de instructiones y tutoriales para comenzar la inves
 
 {% include section.html %}
 
-## Suggested external resources 
+## Suggested external resources
 
 {% include list.html component="card" data="resources" filters="group: more" style="small" %}
