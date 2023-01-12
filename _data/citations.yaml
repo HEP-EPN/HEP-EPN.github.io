@@ -23,8 +23,45 @@
   image: "images/images_research/thesis_Erick.png"
   tags:
   - Rayos Cósmicos
-  - Detectores 
+  - Detectores
 
+
+- title: Implementación y calibración de un detector terrestre Cherenkov de agua para Rayos Cósmicos en la Escuela Politécnica Nacional.
+  authors:
+  - Stephany Vargas Piedra
+  publisher: Undergraduate Thesis
+  date: '2016-09-26'
+  link: http://bibdigital.epn.edu.ec/handle/15000/16738
+  image: "images/images_research/thesis_Sthepany.png"
+  tags:
+  - Rayos Cósmicos
+  - Detectores
+
+- title: Determinación de la masa del quark top mediante el análisis del espectro de energía de b-jets con los datos del detector Solenoide Compacto de Muones (CMS)
+  authors:
+  - Daniel Guerrero Ibarra
+  publisher: Undergraduate Thesis
+  date: '2016-11-15'
+  link: http://bibdigital.epn.edu.ec/handle/15000/16842
+  image: "images/images_research/thesis_Daniel.png"
+  tags:
+  - LHC
+  - CMS Data
+  - 8 TeV 
+  - Top physics
+
+- title: Determinación de la masa del quark top usando variables leptónicas en el experimento CMS del LHC
+  authors:
+  - Cristina Mantilla Suárez
+  publisher: Undergraduate Thesis
+  date: '2016-11-15'
+  link: http://bibdigital.epn.edu.ec/handle/15000/16738
+  image: "images/images_research/thesis_Cristina.png"
+  tags:
+  - LHC
+  - CMS Data
+  - 13 TeV
+  - Top physics
 # - id: doi:10.1371/journal.pcbi.1007128
 #   title: Open collaborative writing with Manubot
 #   authors:
