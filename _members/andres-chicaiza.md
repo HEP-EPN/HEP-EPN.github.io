@@ -1,6 +1,6 @@
 ---
 name: Andrés Chicaiza
-image: images/andres_chicaiza.jpg
+image: images/andres_chicaiza.png
 description: Undergraduate student
 role: undergrad
 group: alum
