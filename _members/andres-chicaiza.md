@@ -1,14 +1,14 @@
 ---
 name: Andrés Chicaiza
-image: images/placeholder.svg
+image: images/andres_chicaiza.jpg
 description: Undergraduate student
 role: undergrad
 group: alum
 aliases:
   - A. Chicaiza
 links:
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: luis.chicaiza04@epn.edu.ec
+
 ---
 
-Info
+Undergraduate student

@@ -7,8 +7,7 @@ group: alum
 aliases:
   - P. Llerena Delgado
 links:
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: pamela.llerena@epn.edu.ec
 ---
 
-Info
+Undergraduate student 
