@@ -1,6 +1,6 @@
 ---
 name: Pamela Llerena Delgado
-image: images/placeholder.svg
+image: images/pamela_llerena.png
 description: Undergraduate student
 role: undergrad
 group: alum
@@ -10,4 +10,4 @@ links:
   email: pamela.llerena@epn.edu.ec
 ---
 
-Undergraduate student 
+Undergraduate student
