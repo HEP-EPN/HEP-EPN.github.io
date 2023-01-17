@@ -55,6 +55,7 @@ Past members of our team are:
  * Stephany Vargas
  * Cristina Mantilla Suarez - Currently Postdoc at Fermilab.
  * Daniel Guerrero - Currently  Postdoc at Fermilab.
+ * Pablo Rivadeneira 
 
 ## Join us
 

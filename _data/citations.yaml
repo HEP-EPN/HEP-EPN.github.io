@@ -62,6 +62,20 @@
   - CMS Data
   - 13 TeV
   - Top physics
+
+- title: Implementación de la cadena completa de simulación para el modelo de materia oscura singlete escalar (ssdm) como extensión del modelo estándar
+  authors:
+  - Pablo Andres Rivadeneira Bracho
+  publisher: Undergraduate Thesis
+  date: '2018-01-22'
+  link: http://bibdigital.epn.edu.ec/handle/15000/19114
+  image: "images/images_research/thesis_Pablo.png"
+  tags:
+  - LHC
+  - 14 TeV
+  - BSM physics
+
+
 # - id: doi:10.1371/journal.pcbi.1007128
 #   title: Open collaborative writing with Manubot
 #   authors:
