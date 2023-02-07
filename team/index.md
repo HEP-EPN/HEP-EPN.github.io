@@ -50,12 +50,12 @@ We work closely with these collaborators:
 
 Past members of our team are:
 
- * Miguel Garcia - Currently in the industry.
- * Erick Rundo
- * Stephany Vargas
- * Cristina Mantilla Suarez - Currently Postdoc at Fermilab.
- * Daniel Guerrero - Currently  Postdoc at Fermilab.
- * Pablo Rivadeneira 
+ * [Miguel Garcia](https://www.linkedin.com/in/miguelgarciavera/)
+ * [Erick Rundo](https://www.linkedin.com/in/erick-rundo-01651458/)
+ * [Stephany Vargas](https://www.linkedin.com/in/stephany-vargas/)
+ * [Cristina Mantilla Suarez](https://www.linkedin.com/in/cristina-mantilla-suarez-78420998/) - Currently Lederman Fellow at Fermilab.
+ * [Daniel Guerrero](https://www.linkedin.com/in/daniel-guerrero-2ba498106/) - Currently  Postdoc at Fermilab.
+ * [Pablo Rivadeneira](https://www.linkedin.com/in/pablo-rivadeneira-bracho/)
 
 ## Join us
 
